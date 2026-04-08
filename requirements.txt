@@ -1,0 +1,8 @@
+pandas
+langchain_community
+langchain-tavily
+python-dotenv
+openai
+chromadb
+langgraph
+streamlit
