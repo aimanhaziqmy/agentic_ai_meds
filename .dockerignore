@@ -1,0 +1,32 @@
+# Version Control
+.git
+.gitignore
+.gitattributes
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.settings/
+
+# Secrets and environments
+.env
+.env.*
+*.pem
+*.key
+*.cert
+secrets.json
+credentials.json
